@@ -1,3 +1,4 @@
 Nama	: Surya Kevin
 NPM	: 2306700031
+Kelas	: TI 6A
 TTL	: Subang, 05 Mei 2005
